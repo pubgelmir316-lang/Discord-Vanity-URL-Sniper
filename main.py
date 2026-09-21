@@ -1,10 +1,10 @@
 import asyncio
 import aiohttp
 
-TOKEN = "Token"
-WEBHOOK_URL = "Your Webhook URL"
-SERVER_ID = "Your Server ID"
-VANITY_LIST = ["url1", "url2", "url3"]
+TOKEN = "MTUwMDcxNzIyMjYxODk5MjY3NQ.GBpkuB.44fH4aSgqwrTPSHWfk941lRVoxJHoZLXhpNmmQ "
+WEBHOOK_URL = "https://discord.com/api/webhooks/1551644107104059482/AxJoj0Yxl-G2joilk60i3wi15hReRZ8aK4Hrr3FIdZvzwV7HvDTVervZB6e_XgMF0rXX"
+SERVER_ID = "1551643941450027189"
+VANITY_LIST = ["xaxa", "britanya", "dinsiz"]
 DELAY = 0.1
 claimed = False
 
